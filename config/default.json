@@ -1,0 +1,7 @@
+{
+    "port":5000,
+    "seckretkey":"ololoev",
+    "uri":"mongodb+srv://avel:1234512345@cluster0-xz0iu.azure.mongodb.net/test?retryWrites=true&w=majority",
+    "client_url":"http://localhost:3000/links",
+    "server_url":"http://localhost:5000/links"
+}
